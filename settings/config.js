@@ -6,7 +6,7 @@ global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
 global.ownername ="ZrifOfc"
-global.ownernumber = "+1 (952) 522-3355"
+global.ownernumber = "+1 (952) 5223355"
 global.botname = "BoBot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
